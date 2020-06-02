@@ -1,0 +1,48 @@
+body{
+	background-image: url(bgimage2.jpg);
+	background-size: cover;
+	
+}
+    body img {
+    	border: 10px dashed rgba(255, 240, 167,0.9);
+    	
+
+    }
+
+h1 {
+	color: rgb(226, 161, 183);
+	text-align: center;
+	border: 5px solid rgba(226, 161, 183, 0.8);
+	cursor: pointer;
+
+}
+h2{
+	color: rgb(255, 167, 167);
+	text-align: right;
+	text-transform: lowercase;
+	font-size: 220%;
+	font-family: 'Kalam', cursive;
+
+}
+h3 {
+	color: black;
+	font-size: 250%;
+	font-family: caption;
+	}
+
+
+
+.class1 {
+	font-family: "Times New Roman";
+	font-style: italic;
+	font-size: 200%;
+	line-height: 20px;
+	color: white;
+	font-weight: bold;
+}
+.active{
+	color: red;
+}
+#id1 {
+	background: rgba(226, 161, 183, 1);
+}
